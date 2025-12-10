@@ -1,4 +1,4 @@
-This GitHub repository contains the the code, models, and graphical user interface as described in the publication: [https://doi.org/10.1101/2025.04.17.25326032 ](https://doi.org/10.1101/2025.04.17.25326032 )
+This GitHub repository contains the the code, models, and graphical user interface as described in the publication: [https://doi.org/10.1123/jmpb.2025-0040 ](https://doi.org/10.1123/jmpb.2025-0040 ). The pre-print is also available on medRxiv: [https://doi.org/10.1101/2025.04.17.25326032](https://doi.org/10.1101/2025.04.17.25326032)
 
 Specifically, in the files above, we provide the code for iPlayer, a tool to facilitate time windowed annotation of video. The directly downloadable compiled versions of iPlayer are available under "Releases".
 
@@ -16,7 +16,7 @@ Make sure you have JavaFX on your machine (e.g., [Azul Zulu Builds](https://www.
 ## How do I use iPlayer?
 Please read the publication for a full description of the tool, how to use the tool, and how to customize the annotation framework. In brief, to use iPlayer:
 
-1. Customize your XML file (in the same folder as iPlayer) with your annotation framework and keyboard shortcuts
+1. Customize your XML file (in the same folder as iPlayer) with your annotation framework and keyboard shortcuts. XML files can be easily edited in a number of different applications, for example, Visual Studio Code
 
 2. Open iPlayer
 3. Load your video file (File>Load video)
@@ -27,7 +27,7 @@ Please read the publication for a full description of the tool, how to use the t
 
 
 ## How do I cite iPlayer?
-Please cite any use of iPlayer by citing the originating publication: Elyse Letts, Damien Masson, Joyce Obeid. (2025) iPlayer: an open-source tool for time-windowed video annotation of human physical activity and behaviour. *medRxiv.* [https://doi.org/10.1101/2025.04.17.25326032 ](https://doi.org/10.1101/2025.04.17.25326032 )
+Please cite any use of iPlayer by citing the originating publication: Elyse Letts, Damien Masson, Joyce Obeid. (2025) iPlayer: an open-source tool for time-windowed video annotation of human physical activity and behaviour. *Journal for the Measurement of Physical Behaviour.* [https://doi.org/10.1123/jmpb.2025-0040 ](https://doi.org/10.1123/jmpb.2025-0040 )
 
 
 ## How to run iPlayer from the code
